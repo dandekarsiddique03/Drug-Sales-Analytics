@@ -102,7 +102,8 @@ This dashboard helps pharmaceutical companies and analysts:
 
 ---
 
-
+Prepared By: Siddique Dandekar 
+             Aanchal Bafna 
 
 
 ---
